@@ -1,2 +1,2 @@
 # dio-desafio-kopschina-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub
+## Repositório do Desafio de Projeto sobre Git/GitHub da dio
