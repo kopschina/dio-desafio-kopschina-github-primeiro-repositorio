@@ -1,0 +1,5 @@
+
+Usar este arquivo para algumas anotações úteis como links, lembretes e notas de aula.
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Queremos que as anotações desta pasta fiquem disponíveis para o público em geral.
